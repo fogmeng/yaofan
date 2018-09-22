@@ -15,5 +15,5 @@
 
 **安装教程**
 
-- [Youtube 视频]()
-- [B 站视频]()
+- [Youtube 视频](https://www.youtube.com/watch?v=v2yQ8OwqqjE)
+- [B 站视频](https://www.bilibili.com/video/av32247963/)
