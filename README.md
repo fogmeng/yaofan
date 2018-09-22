@@ -1,4 +1,4 @@
-# 基于 [有赞微小店](https://j.youzan.com/tMzSKY) 的要饭系统
+# 基于有赞微小店的要饭系统
 
 该系统修改自 [youzan_yaofan](https://github.com/abbeyokgo/youzan_yaofan)
 
