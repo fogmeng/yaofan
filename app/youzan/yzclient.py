@@ -32,7 +32,12 @@ class YZClient:
 
         http_url = http_url + '/' + service + '/' + version + '/' + action
 
+        print 'logs:', http_url
+        
         resp = self.send_request(http_url, method, param_map, files)
+
+        print 'response:', resp.content
+
         if resp.status_code != 200:
             print(resp.status_code)
             raise Exception('Invoke failed')
